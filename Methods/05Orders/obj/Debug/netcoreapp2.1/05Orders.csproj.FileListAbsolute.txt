@@ -1,0 +1,10 @@
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\05Orders\bin\Debug\netcoreapp2.1\05Orders.deps.json
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\05Orders\bin\Debug\netcoreapp2.1\05Orders.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\05Orders\bin\Debug\netcoreapp2.1\05Orders.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\05Orders\bin\Debug\netcoreapp2.1\05Orders.dll
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\05Orders\bin\Debug\netcoreapp2.1\05Orders.pdb
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\05Orders\obj\Debug\netcoreapp2.1\05Orders.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\05Orders\obj\Debug\netcoreapp2.1\05Orders.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\05Orders\obj\Debug\netcoreapp2.1\05Orders.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\05Orders\obj\Debug\netcoreapp2.1\05Orders.dll
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\05Orders\obj\Debug\netcoreapp2.1\05Orders.pdb

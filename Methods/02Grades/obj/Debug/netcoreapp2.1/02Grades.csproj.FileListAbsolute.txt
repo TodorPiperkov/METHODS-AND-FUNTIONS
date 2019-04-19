@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\02Grades\bin\Debug\netcoreapp2.1\02Grades.deps.json
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\02Grades\bin\Debug\netcoreapp2.1\02Grades.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\02Grades\bin\Debug\netcoreapp2.1\02Grades.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\02Grades\bin\Debug\netcoreapp2.1\02Grades.dll
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\02Grades\bin\Debug\netcoreapp2.1\02Grades.pdb
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\02Grades\obj\Debug\netcoreapp2.1\02Grades.csprojAssemblyReference.cache
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\02Grades\obj\Debug\netcoreapp2.1\02Grades.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\02Grades\obj\Debug\netcoreapp2.1\02Grades.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\02Grades\obj\Debug\netcoreapp2.1\02Grades.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\02Grades\obj\Debug\netcoreapp2.1\02Grades.dll
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\02Grades\obj\Debug\netcoreapp2.1\02Grades.pdb

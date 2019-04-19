@@ -1,0 +1,10 @@
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\07RepeatString\bin\Debug\netcoreapp2.1\07RepeatString.deps.json
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\07RepeatString\bin\Debug\netcoreapp2.1\07RepeatString.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\07RepeatString\bin\Debug\netcoreapp2.1\07RepeatString.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\07RepeatString\bin\Debug\netcoreapp2.1\07RepeatString.dll
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\07RepeatString\bin\Debug\netcoreapp2.1\07RepeatString.pdb
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\07RepeatString\obj\Debug\netcoreapp2.1\07RepeatString.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\07RepeatString\obj\Debug\netcoreapp2.1\07RepeatString.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\07RepeatString\obj\Debug\netcoreapp2.1\07RepeatString.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\07RepeatString\obj\Debug\netcoreapp2.1\07RepeatString.dll
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\07RepeatString\obj\Debug\netcoreapp2.1\07RepeatString.pdb

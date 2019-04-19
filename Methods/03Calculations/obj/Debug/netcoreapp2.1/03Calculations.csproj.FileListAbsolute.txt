@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\03Calculations\obj\Debug\netcoreapp2.1\03Calculations.csprojAssemblyReference.cache
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\03Calculations\obj\Debug\netcoreapp2.1\03Calculations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\03Calculations\obj\Debug\netcoreapp2.1\03Calculations.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\03Calculations\obj\Debug\netcoreapp2.1\03Calculations.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\03Calculations\bin\Debug\netcoreapp2.1\03Calculations.deps.json
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\03Calculations\bin\Debug\netcoreapp2.1\03Calculations.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\03Calculations\bin\Debug\netcoreapp2.1\03Calculations.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\03Calculations\bin\Debug\netcoreapp2.1\03Calculations.dll
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\03Calculations\bin\Debug\netcoreapp2.1\03Calculations.pdb
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\03Calculations\obj\Debug\netcoreapp2.1\03Calculations.dll
+D:\SoftUni\Tech Modul C#\METHODS AND FUNTIONS\Methods\03Calculations\obj\Debug\netcoreapp2.1\03Calculations.pdb
